@@ -1,0 +1,5 @@
+book_filename: "Rstudio_Conf"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
